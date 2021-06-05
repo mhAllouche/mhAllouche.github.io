@@ -13,7 +13,7 @@
 	<h1> Agrégation </h1>
 	<h2> Epreuve TP Générale </h2>
 	<p> Bismillah, oral de l'épreuve commune de l'agrégation </p><br>
-	
+	<a href="Fiche activité Ibrahim BENZIDI.pdf"> Fiche activité Ibrahim BENZIDI</a>
 
 	<ul> 
 
