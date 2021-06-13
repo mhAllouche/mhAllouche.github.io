@@ -30,13 +30,27 @@
 	
 		<li> Simulink <br>
 	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/MCC_simulink_mohamed1.zip"> simulink_MCC_1</a>
-	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/MCC_simulink_mohamed2.zip">  simulink_MCC_1</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/MCC_simulink_mohamed2.zip">  simulink_MCC_2</a>
 		</li>
 	 
 		<li> Calculette <br>
 	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/Calculette1.zip"> Calculette 1</a>
 	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/Calculette2.zip">  Calculette_2</a>
 		</li>
+		
+		<li> Powerpoint <br>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/Soutenance_Dossier_Industriel_MH_Allouche.pptx"> Dossier industriel</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/La%C3%AFcit%C3%A9_r%C3%A9sum%C3%A9.odp">  Laicite</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/11023-exemple-de-sequences-autour-du-concept-de-conversion-en-sti2d.pptx"> Sequences pedago STI2D</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/referentiel-2013.pdf">  Laicite</a>
+		</li>	
+		
+		
+		<li> Pedagogie <br>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/DR_chaine_energie.docx"> Pedago 1</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/pedago.zip">  Pedago_2</a>
+		</li>
+		
 	</ul>
 
 </body>
