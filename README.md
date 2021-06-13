@@ -33,6 +33,10 @@
 	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/MCC_simulink_mohamed2.zip">  simulink_MCC_1</a>
 		</li>
 	 
+		<li> Calculette <br>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/Calculette1.zip"> Calculette 1</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/Calculette2.zip">  Calculette_2</a>
+		</li>
 	</ul>
 
 </body>
