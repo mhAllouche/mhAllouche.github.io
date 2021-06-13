@@ -47,7 +47,7 @@
 		
 		
 		<li> Pedagogie <br>
-	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/DR_chaine_energie.docx"> Pedago 1</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/DR_chaine_energie.docx"> Chaine d'energie 1</a>
 	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/pedago.zip">  Pedago_2</a>
 		</li>
 		
