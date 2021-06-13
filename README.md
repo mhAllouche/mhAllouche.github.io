@@ -12,7 +12,7 @@
 
 	<h1> Agrégation </h1>
 	<h2> Epreuve TP Générale </h2>
-	<p> Oral de $e l'agrégation </p><br>
+	<p> Oral de l'agrégation </p><br>
 	
 		
 	<ul> 
