@@ -26,6 +26,13 @@
 	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/arduino_mesure_tension.zip"> arduino mesure tension</a>
 	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/arduino_son.zip"> arduino son</a>
 	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/arduio_python.zip">arduino python</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/FCBg0IbB3hz_ARDUINO1---p1-%C3%A0-p55.pdf">arduino recueil 1</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/FCBg5Lh0t8z_ARDUINO1---p56-%C3%A0-p82.pdf">arduino recueil 2</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/arduino_divers1.zip">arduino divers 1</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/arduino_divers2.zip">arduino divers 2</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/arduino_divers3.zip">arduino divers 3</a>
+
+			
 		</li>
 	
 		<li> Simulink <br>
@@ -49,6 +56,8 @@
 		<li> Pedagogie <br>
 	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/DR_chaine_energie.docx"> Chaine d'energie 1</a>
 	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/pedago.zip">  Pedago_2</a>
+	<a href="https://github.com/mhAllouche/mhAllouche.github.io/blob/main/Thermodynamique_STI2D.pdf">  thermo STI2D</a>
+
 		</li>
 		
 	</ul>
